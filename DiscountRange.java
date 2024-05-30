@@ -8,7 +8,7 @@ public class DiscountRange {
 		char choice;
 do {
 System.out.println("Enter the purchase amount");
-int amount=sc.nextInt();
+float amount=sc.nextFloat();
 if(amount<500) {
 	System.out.println("No discount for amount less than 500");
 }
