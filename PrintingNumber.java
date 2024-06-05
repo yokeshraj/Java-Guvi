@@ -1,4 +1,4 @@
-package com.Day2;
+package com.Task1;
 
 public class PrintingNumber {
 	public static void main(String[]args) {
